@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "254993484863",
+    "firebase_url": "https://toilet-finding-app.firebaseio.com",
+    "project_id": "toilet-finding-app",
+    "storage_bucket": "toilet-finding-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254993484863:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254993484863-nuvpeuildbqugf8kibqpvrojlb2pm340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_873BQfgVaXvDwVh2QkrRAvpHctLXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254993484863-nuvpeuildbqugf8kibqpvrojlb2pm340.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254993484863:android:5c51d34405f74da9",
+        "android_client_info": {
+          "package_name": "com.example.tfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254993484863-9kfji0roqc1a4ld0k7cktee3bhu6hm8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tfa",
+            "certificate_hash": "1b0d2049fabed87eb46016fd34e7b3749dccaa3e"
+          }
+        },
+        {
+          "client_id": "254993484863-r2ll79u06444j2gnhfk3ubjt6q4bksh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tfa",
+            "certificate_hash": "c272f17334943b77072fdf61a66f2c5593e7458b"
+          }
+        },
+        {
+          "client_id": "254993484863-nuvpeuildbqugf8kibqpvrojlb2pm340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_873BQfgVaXvDwVh2QkrRAvpHctLXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254993484863-nuvpeuildbqugf8kibqpvrojlb2pm340.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254993484863:android:6dccb592706cd4f182fc8a",
+        "android_client_info": {
+          "package_name": "com.example.thetoiletfindingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254993484863-mikl3838dq776qn18blc5g04dqaiilkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thetoiletfindingapp",
+            "certificate_hash": "c272f17334943b77072fdf61a66f2c5593e7458b"
+          }
+        },
+        {
+          "client_id": "254993484863-nuvpeuildbqugf8kibqpvrojlb2pm340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_873BQfgVaXvDwVh2QkrRAvpHctLXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254993484863-nuvpeuildbqugf8kibqpvrojlb2pm340.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheToiletFindingApp</string>
+    <string name="title_publictoilet">Public</string>
+    <string name="title_privatetoilet">Private</string>
+    <string name="title_aboutus">About Us</string>
+    <string name="pubToiletLabel">Public Toilet</string>
+    <string name="priToiletLabel">Private Toilet</string>
+    <string name="title_activity_public_toilet">Map</string>
+    <string name="title_profile">Profile</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+</resources>
